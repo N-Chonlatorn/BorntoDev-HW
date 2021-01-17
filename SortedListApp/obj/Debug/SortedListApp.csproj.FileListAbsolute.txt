@@ -1,0 +1,15 @@
+D:\Project\Dev Learning Project\SortedListApp\bin\Debug\SortedListApp.exe.config
+D:\Project\Dev Learning Project\SortedListApp\bin\Debug\SortedListApp.exe
+D:\Project\Dev Learning Project\SortedListApp\bin\Debug\SortedListApp.pdb
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\SortedListApp.csprojAssemblyReference.cache
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\MainWindow.g.cs
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\App.g.cs
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.cache
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.lref
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\MainWindow.baml
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\SortedListApp.g.resources
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\SortedListApp.Properties.Resources.resources
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\SortedListApp.csproj.GenerateResource.cache
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\SortedListApp.csproj.CoreCompileInputs.cache
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\SortedListApp.exe
+D:\Project\Dev Learning Project\SortedListApp\obj\Debug\SortedListApp.pdb
